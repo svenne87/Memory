@@ -1,0 +1,1 @@
+Simple Memory game made in AngularJS using yeoman.
